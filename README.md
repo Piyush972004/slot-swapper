@@ -1,7 +1,7 @@
 
 ## Project info
 
-**URL**: 
+**URL**: https://slot-wapper.netlify.app/
 
 **Use your preferred IDE**
 
